@@ -1,4 +1,4 @@
-Room-Bridge
+# Room-Bridge
 
 AI-powered room-rental discovery platform that combines personalized ranking, verified listings, and real-time communication to make finding rental rooms faster, safer and more relevant for students and professionals.
 
