@@ -8,3 +8,6 @@ pip freeze > requirements.txt  -> To Write the requirements
 
 
 pip install -r requirements.txt
+
+
+docker run -d -p 6379:6379 --name redis redis
